@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "rafaelferreira99@hotmail.com",
+      "name": "Rafael Ferreira",
+      "cpf": "12345678912",
+      "celular": "19998255728"
+    }
+  ]
+}
